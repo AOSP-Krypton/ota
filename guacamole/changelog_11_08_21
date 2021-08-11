@@ -1,0 +1,10 @@
+* Add accent picker
+* Fix safetynet not passing by default
+* Add dolby from moto audio
+* Add IFAA support
+* Add sys ui restart option in the power menu
+* Fix issues with Launch camera gesture action
+* Bug fixes in updater
+* Update kernel to 4.14.243
+* Sync with latest dora
+* Show battery in QS Header
