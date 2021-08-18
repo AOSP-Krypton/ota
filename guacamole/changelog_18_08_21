@@ -1,0 +1,24 @@
+Changes in KOSP sauce:
+* Added systemui tuner preference to settings
+* Added support for setting both light and dark accent color.
+* Killed a whole lot of debug spam.
+* Added styles and wallpapers to settings
+* Added OxygenOS icon pack
+* Updated some strings and theme in updater app
+* Fixed wonky statusbar header layout
+* Added option to choose volume panel position
+* Added option to choose gesture navbar length
+* Added option to adjust the transparency of media notification background
+* Merged latest caf tag in many repos
+* Fixed a bug in gaming mode and some other settings
+
+Device side changes:
+* Upstreamed parts of blobs to LA.UM.9.1.r1-10200-SMxxx0.0
+* Enabled uxe
+* Enabled incremental fs
+* Nuked some vibrator logs
+* Updated media props.
+* Use uncompressed dtbless kernel image
+* Update cam blobs from oos
+* Fix issues with blurry rounded corners
+* Changed 'dash charging' string to 'warp charging'
