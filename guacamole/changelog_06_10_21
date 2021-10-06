@@ -1,0 +1,15 @@
+Changes in KOSP sauce
+* Fixed inability to add new fonts because of insufficient permissions
+* Introduce kosp clock (Credits to @madnesssubmod)
+* Unified burn in protection timers for doze
+* Fixed preferences not hiding properly in launcher settings
+* Added option to choose custom ringtone vibration pattern
+* Merged october security patch (android-11.0.0_r48)
+* Addressed yet another selinux denial for updater app
+* Some other fixes and improvements
+
+Device side changes
+* Increase statusbar padding
+* Move charging text down
+* Sync audio props with wanplus
+* Updated kernel to dora v2.4
