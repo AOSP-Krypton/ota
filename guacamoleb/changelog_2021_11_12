@@ -1,31 +1,3 @@
-Source side changes
-
-- Added lock screen charging info
-- Merged November patch aka r13
-- Fixed fod not working on aod
-- Updated a few GApps.
-- Fixed google dialer showing "Your device may not be supported"
-- Removed now playing from settings
-- Added sliders for monet engine color override
-- Added network traffice indicator
-- Added back wifi and mobile data tile
-- Fixed ota not working in Updater and some other possible crashes
-- Switched to lawnchair alpha 3
-- updated some Chinese translation
-- Add double tap to sleep on ls
-- Add double tap to sleep on statusbar
-- Extend double tap to wake to AOD
-- Added livedisplay and anti-flicker (DC dimming) tile
-- More Improvements to UDFPS
-
-Device side changes
-
-- Updated blobs from 11.0.4.1
-- Fixed IFAA crashes
-- Nuked QCOM wfd
-- Prebuilt libssrec
-- Decrease fp hbm flash. Still happens but much rarer
-- Fixed als correction service
-- Fixed fps drops in games and while switching apps
-- Added GCAM
-- Added OOSCam
+Hot Fix:
+- Fixed SetupWizard issue on clean flash
+- Bump up speaker volume
