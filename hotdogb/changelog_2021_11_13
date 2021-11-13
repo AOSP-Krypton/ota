@@ -1,0 +1,22 @@
+Changes in KOSP sauce:
+
+* Improved network traffic monitor and refresh rate tile
+* Added option to turn on aod while charging
+* Added qs tile for AOD
+* Added data switch tile
+* Added option to upload logs in app crash dialog
+* Fixed transparent notification shade bug
+* Fixed systemui crash caused by smartspace and some other misc crashes
+* Improved burn in protection code
+* Added option for in call vibrations
+* Added NFC icon to statusbar
+* Fixed second sim not showing in settings
+* Inbuilt matlog
+* Updated lawnchair and added lawnicons
+* Updated translations
+
+Device side changes
+* Improved fod
+* Add OOS Cam. Note portrait mode and 48MP is broken right now.
+* Spawn a binder thread for als service 
+* Add refresh rate settings
