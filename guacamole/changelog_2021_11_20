@@ -1,0 +1,26 @@
+Source side changes
+
+* Fixed lockscreen clock showing a different color in the middle of transition from ambient display to lockscreen
+* Fixed network traffic indicator showing rate as a double instead of an int
+* Added toggle for screen off fod
+* Added toggle for location privacy indicator
+* Added double tap or long press power button gesture for torch
+* Adapt screenshot sound with ringer modes and added a toggle to force disable it
+* Added toggle for notification sound and vibration when screen is on
+* Nuked secondary navigation handle
+* Added toggle for combined signal icons
+* Improved aod and aod on charge toggled
+* Added missing illustrations in Settings
+* Switched to aosp package installer
+* Fixed ar core crash
+* Updated a few GApps and we ship YouTube Vanced now. Uninstall updates to existing YouTube app to use Vanced and also disable auto update for YouTube
+* Updated Chinese translations
+
+Device side changes
+
+* Use source built ant blobs
+* Use AOSP doze and drop our custom doze
+* Replace writepid with task_profiles command for cgroup migration
+* Add missing permission for /dev/diag
+* Update kernel to latest dora. Bully @thenem0 for changelog
+* Drop sf unaffine prop
