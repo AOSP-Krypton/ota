@@ -1,0 +1,26 @@
+Changes in KOSP sauce:
+
+* Fixed fod being detected in notification shade after unlocking from ambient display.
+* Added option to unlink ring and notification volume.
+* Fixed some issues with app debugging.
+* Disabled transition to lockscreen from ambient display when unlocking with fod.
+* Vastly improved network traffic monitor.
+* Added fullscreen gestures(hidden pill and keyboard space).
+* Fixed certain app crashes (AXIS Bank for ex).
+* Fixed front cam not working in gcam / signal.
+* Dynamic fonts for lockscreen and quick settings.
+* Updated lawnicons.
+* Fixed lockscreen battery info toggle.
+* Imported setup wizard from Pixel 6.
+* Fixed lawnchair search.
+* Fixed live captions.
+* Fixed app info page crash.
+* Added some missing icons in wifi settings page.
+* Disable SS vibration when toggle is off.
+* Fix crash in app info page when play store is disabled
+* Merged latest CAF tags.
+* Updated Chinese translations.
+
+Device side changes
+* Improve fod and take care of a bunch of edge cases which made fod not work.
+* Fix retry/close buttons not working on error open/close camera alert.
