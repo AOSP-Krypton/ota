@@ -1,0 +1,31 @@
+Source side
+
+* Merge December security patch. 
+* Fixed smartspace not working
+* Added option to change brightness slider position
+* Fixed network traffic showing up in statusbar when network connection is disabled
+* Fixed settings crash in tts page
+* Improved screen recorder
+* Fixed navbar hide toggle not working for some
+* Added option to increase pill size
+* Added option to change fonts and icon pack
+* Added edge light customisations
+* Added battery style customisations- guacamoleb(Partially broken)
+* Added option to skip tracks volume rockers
+* Added option to select custom fonts
+* Updated Chinese translations
+* Switched to GrapheneOS camera 
+* Updated lawnicons and lawnchair
+* Dropped YouTube Vanced
+* Switched to google sans font for lockscreen clock
+* Redesigned brightness slider
+* Spoofed google translation for monet themeing
+* Switched to redfin props for the time being to pass safetynet
+
+Device side 
+
+* Fixed wfd
+* Dropped oos cam. This fixes front cam not working on some apps like signal.
+* Dropped Prebuilt GCam in favour of more options
+* Build goodix fp library from source
+* Synced kernel source with Dora
