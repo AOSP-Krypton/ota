@@ -1,0 +1,25 @@
+Source side changes
+
+* Merged aosp r20 tag
+* Dropped lockscreen shortcuts
+* Fixed DT2W not working from ambient / aod in some scenarios 
+* Fixed refresh rate tile showing wrong refresh rate after setup
+* Reworked alert slider with a better design and animations
+* Added acherus icon pack
+* Added option to choose different ringtone for multiple SIMs 
+* Added oos vibration patterns and an option to choose custom pattern as well
+* Added a new set of torch gestures  (dropped old one's)
+* Added media notification background customisations
+* Added lockscreen media art
+* Added 3 finger swipe screenshot gesture 
+* Updated chinese translations
+* Update gms from Raven Dec patch
+
+Device side changes
+
+* Fix nfc tap to pay
+* Enable fuse passthrough
+*  Declare opengl depq level
+* Actually enable auto brightness on aod
+* Allow surface flinger to call als correction
+* For kernel changes tag thenem0
