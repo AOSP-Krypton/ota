@@ -1,0 +1,29 @@
+Source side changes:
+
+* Merged January security patch (android-12.0.0_r26)
+* Added gaming mode with quite some cool features
+* Added fps info tile
+* Imported new smartspace implementation (Brings back ambient clock to the center)
+* Removed lockscreen media art feature 
+* Fixed alert slider theme not changing after toggling dark theme
+* Improved and fixed a few bugs with media notification background artwork
+* Fixed battery bar not appearing for guacamoleb in expanded qs panel
+* Suppressed annoying systemui ANR reports (waiting for fix from google) 
+* Fixed battery stats
+* Added notification counter 
+* Updated graphene os camera
+* Updated translations
+
+Device side
+* Fix carrier video calling
+* Fix zram issues on other kernels
+* Rewrite device settings in kotlin and add few features like pop up while opening camera.
+* Adapt to a12 ui for device settings
+* Switch to qti bt
+* Update blobs from 11.0.5.1
+* Remove vibrator preference for guacamoleb
+* Fix alert slider position for hotdogb
+* Fix charging position on hotdogb
+* Stop client package observer when oos cam isn't installed 
+* Update translation 
+* Update kernel to latest dora
