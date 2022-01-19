@@ -1,0 +1,26 @@
+Source side changes
+
+* Merged tag android-12.0.0_r27 and updated raven fp in PixelPropsUtils
+* Reverted back to old power button behaviour
+* Added more chinese APNs and synced with apns-conf from los
+* Fixed lockscreen wallpaper (for real this time)
+* Fixed music info not showing in ambient display
+* Reverted old edge light impl and added our own impl
+* Minor improvements to brightness slider animations
+* Fixed edit menu icon tint everywhere in settings
+* Fixed qqs in lockscreen being black even when light theme is set
+* Fixed back gesture sensitivity settings resetting on reopening page
+* Added option to disable qs on secure lockscreen 
+* Added qs footer text customizations
+* Added qs battery estimates
+* Improved location privacy indicator toggle (systemui restart not required anymore)
+* Replaced Matlog with MatlogX (a new app based on Matlog, developed by our team)
+* Added internet qs tile to secure tiles
+* Improved network traffic monitor
+* Updated translations
+
+Device side changes
+* Fixed alert slider customisations
+* Updated vendor blobs from  LA.UM.9.12.r1-13300-SMxx50.QSSI12.0 
+* Set correct charging info for guacamoleb
+* Synced with dora kernel
