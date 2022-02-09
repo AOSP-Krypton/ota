@@ -1,8 +1,11 @@
 {
-    "version"   : "2.3",
-    "date"      : "1642506818000",
-    "url"       : "https://downloads.kosp.workers.dev/0:/A12/hotdogb/KOSP-2.3-hotdogb-user-OFFICIAL-GAPPS-20220118-1750.zip",
-    "filename"  : "KOSP-2.3-hotdogb-user-OFFICIAL-GAPPS-20220118-1750.zip",
-    "filesize"  : "1218805757",
-    "md5"       : "da876d5fce0e05646e711389d9367d90"
+    "version"    : "2.4",
+    "date"       : "1644372750000",
+    "url"        : "https://downloads.kosp.workers.dev/0:/A12/hotdogb/KOSP-2.4-hotdogb-user-OFFICIAL-GAPPS-20220209-0757.zip",
+    "filename"   : "KOSP-2.4-hotdogb-user-OFFICIAL-GAPPS-20220209-0757.zip",
+    "file_name"  : "KOSP-2.4-hotdogb-user-OFFICIAL-GAPPS-20220209-0757.zip",
+    "filesize"   : "1215785494",
+    "file_size"  : "1215785494",
+    "md5"        : "7ee2a9a84360293bb68662008f6f4a60",
+    "sha_512"    : "64a207412312b1a81db5fb3f04566b51462ca9a4d3694f25d8f640027418937c1808a9c10df88470f7cf3e050cbe2dc894059a12664fe306f68c50a5da329550"
 }
