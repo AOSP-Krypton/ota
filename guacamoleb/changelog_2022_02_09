@@ -1,3 +1,5 @@
+HOTFIX Update
+
 Source side changes:
 
 * Fixed MatlogX crashing in some cases and improved performance
@@ -20,7 +22,7 @@ Source side changes:
 
 Device
 * Update als position
+* Sync kernel with dora
 * Improve fod thanks to alk3p
-* Implement new ALS compensation algorithm
-* Added prebuilt GCam(https://t.me/googlecamera_mod/2129) 
-* Drop Graphene-Camera
+* Revert Implement new ALS compensation algorithm
+* Drop GCam Recommended GCam(https://t.me/googlecamera_mod/2129) 
