@@ -1,0 +1,26 @@
+Source side changes:
+
+* Fixed MatlogX crashing in some cases and improved performance
+* Fixed lock gesture tile in gaming mode  not reflecting user preference
+* Updated lawnchair and camera app
+* Introduce our redesigned updater app, completely written from scratch
+* Added search index for our settings additions
+* Fixed location privacy indicator getting stuck sometimes
+* Suppressed some logcat spams
+* Fixed a rare audio service crash
+* Improved fps info tile
+* Added date and time click actions in qs
+* Added option to  schedule aod
+* Added option to disable haptic feedback on udfps press
+* Removed a bunch of APNs (fixes calling for Verizon users)
+* Added PTV Telecom APN
+* Added option to allow toggling secure qs tiles in lockscreen 
+* Added oneshot auto brightness
+* Updated translations
+
+Device
+* Update als position
+* Improve fod thanks to alk3p
+* Implement new ALS compensation algorithm
+* Added prebuilt GCam(https://t.me/googlecamera_mod/2129) 
+* Drop Graphene-Camera
