@@ -1,0 +1,29 @@
+Source side changes:
+
+* Fixed notification overlay blocking touch while gaming
+* Fixed couple of issues with updater
+* Introduced app lock
+* Updated graphene os camera (Fixed QR scanner crash) 
+* Fixed System UI crash on long pressing some qs tiles
+* Added heads-up tile
+* Fixed long click action for AOD tile
+* Switched to list preference for min / max refresh rate
+* Improved refresh rate tile
+* Fixed network / sensor permission showing as undefined group in app info
+* Fixed circle battery tint in qqs
+* Improved qti bt
+* Updated translations
+* And a bunch of other fixes and improvements
+
+Device side changes
+* Updated blobs from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0 
+* Update dsp blobs from oos
+* Switch dsp blobs to LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0 
+* Add volte and vowifi for free. 
+* Add back qti wfd
+* Update wfd blobs from lemonadep
+* Build hwc from source
+* Fix issues with dim layer staying on randomly
+* Sync with latest dora
+* Cleanup some sepolicy
+* Update translation
