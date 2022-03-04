@@ -1,8 +1,8 @@
 {
-      "version"    : "1.0",
-      "date"       : "2636198269000",
-      "url"        : "https://raw.githubusercontent.com/jhonboy121/test/test/KOSP-Updater.apk",
-      "filename"   : "KOSP-Updater.apk",
-      "filesize"   : "11006468",
-      "md5"        : "1d14820ab0f936687e9f995350f16ae1"
+    "version"    : "2.6",
+    "date"       : "1650180671000",
+    "url"        : "https://kosp.e11z.net/d/A12/guacamole/KOSP-2.6-guacamole-user-OFFICIAL-GAPPS-20220417-1322.zip",
+    "file_name"  : "KOSP-2.6-guacamole-user-OFFICIAL-GAPPS-20220417-1322.zip",
+    "file_size"  : "1259180760",
+    "sha_512"    : "90f165b05437a9e4afa45ba90f53f4c33fc011f31ea615e90ff21de32bcddb151cf7cb698bc8eecb4642f8fcba448a7d683cde4209af2ad82f29383f96b24471"
 }
