@@ -1,0 +1,17 @@
+Source side
+* Added option to invert 3 button navigation bar layout
+* Fixed qs brightness slider preferences
+* Improved font picker preference
+* Added 4G - LTE icon toggle
+* Added option to use old style mobile data indicators
+* Added incremental update support, option to configure update check interval and a bunch of other bugfixes / improvements in updater
+* Fixed a bunch of issues and improved app lock 
+* Improved auto aod service
+ 
+Device side
+* Update ardeno blobs from LA.UM.9.14.r1-18900-LAHAINA.QSSI12.0. Fixes broken vulkan
+* Update RIL/IMS stack from LA.UM.9.14.r1-18900-LAHAINA.QSSI12.0.
+* Fix vbswap
+* Fix acttivity launch gesture 
+* Sync with latest dora
+* Remove volte/vowifi changes for free (Those didn't work anyway)
