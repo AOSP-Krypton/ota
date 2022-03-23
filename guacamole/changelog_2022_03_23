@@ -1,0 +1,21 @@
+Source side changes:
+
+* Merged March security patch (Sv2, 12L).
+* Bump krypton version to 2.5
+* Dropped brightness slider customisations, will be back.
+* Dropped kdrag0n's monet impl, may or may not be back. So it's Google's impl for now.
+* Dropped lawnchair and switched to aosp Launcher3.
+* Dropped separate wifi / data tile (Internet tile ftw).
+* Fixed a few issues with updater (installation halting on idle, auto update check notification for non-existent OTAs and such).
+* Fixed udfps icon and hbm circle misalignment in biometric prompt.
+* Fixed a sysui crash caused by concurrency issue while collecting bluetooth battery level.
+* Fixed fake navbar sticking in some scenarios.
+* Fixed bluetooth battery level not showing up when multiple devices are connected and only one or a few reports battery level.
+* Updated translations.
+* Update some prebuilt google apps
+
+Device side changes:
+
+* Switch to Vulkan UI renderer
+* Sync with dora V2.9
+* Switched to Launcher3

@@ -1,11 +1,11 @@
 {
-    "version"    : "2.4",
-    "date"       : "1646469044000",
-    "url"        : "https://downloads.kosp.workers.dev/0:/A12/guacamole/KOSP-2.4-guacamole-user-OFFICIAL-GAPPS-20220305-1408.zip",
-    "filename"   : "KOSP-2.4-guacamole-user-OFFICIAL-GAPPS-20220305-1408.zip",
-    "file_name"  : "KOSP-2.4-guacamole-user-OFFICIAL-GAPPS-20220305-1408.zip",
-    "filesize"   : "1217381191",
-    "file_size"  : "1217381191",
-    "md5"        : "7a476763eb02763aa4c062e61635fc8c",
-    "sha_512"    : "9e005c84118254e1d1c1242150647c5dc346a9da6b00469fb235e4449a2a4603b6e3fa6bdd184b5cd009b95bf787aba848248521143fb8ebb2431be56c0838e3"
+    "version"    : "2.5",
+    "date"       : "1648015458000",
+    "url"        : "https://downloads.kosp.workers.dev/0:/A12/guacamole//KOSP-2.5-guacamole-user-OFFICIAL-GAPPS-20220323-1139.zip",
+    "filename"   : "KOSP-2.5-guacamole-user-OFFICIAL-GAPPS-20220323-1139.zip",
+    "file_name"  : "KOSP-2.5-guacamole-user-OFFICIAL-GAPPS-20220323-1139.zip",
+    "filesize"   : "1261541200",
+    "file_size"  : "1261541200",
+    "md5"        : "c38186c5f232a4b8a71843f84a0b0005",
+    "sha_512"    : "80b47c7663903047ddc6997e65a129c1c660b57df0cc5587127e15c45d4e1707ce90beee52b2017b71ae0ef0ba6f59dda403bc9bbb9ab212028f7add6851dd40"
 }
