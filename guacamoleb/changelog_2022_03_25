@@ -1,0 +1,11 @@
+Source side changes:
+
+* Bring back Monet GUI customisation
+* Switch to PixelPowerUsage for Battery stats
+* Added back additional options for screen recording
+* Better handle download error in updater
+* Updated translations
+
+Device side changes:
+
+* Sync with dora V3.0
