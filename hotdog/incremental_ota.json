@@ -1,9 +1,9 @@
 {
     "version"               : "2.5",
-    "date"                  : "1648012542000",
-    "url"                   : "https://downloads.kosp.workers.dev/0:/A12/hotdog//KOSP-2.5-hotdog-user-OFFICIAL-GAPPS-incremental-20220323-1111.zip",
-    "file_name"             : "KOSP-2.5-hotdog-user-OFFICIAL-GAPPS-incremental-20220323-1111.zip",
-    "file_size"             : "173803505",
-    "sha_512"               : "b79bf07553b5a25a3a8e7312cd4dd892949e965a03872e3f743ce843a49906f790ab8b2e8d4b5d960acd8dfe7df3439f54bea52ee9c10e9f96b98c6f6b226d09",
-    "pre_build_incremental" : "1646472022"
+    "date"                  : "1648955144000",
+    "url"                   : "https://kosp.e11z.net/A12/hotdog/KOSP-2.5-hotdog-user-OFFICIAL-GAPPS-incremental-20220403-0909.zip",
+    "file_name"             : "KOSP-2.5-hotdog-user-OFFICIAL-GAPPS-incremental-20220403-0909.zip",
+    "file_size"             : "272836257",
+    "sha_512"               : "94dd9839c66f799e79cfcd2c56b91d306a6c4e1cb2e01b564754cdfa363f10d334ca5b3f725b529c7d1391f01adee729d1adbfb5917572fa8b60233bd7f691e0",
+    "pre_build_incremental" : "441"
 }
