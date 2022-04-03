@@ -1,0 +1,17 @@
+Source side changes:
+
+* Fixed some log spam and a possible crash with split screen in launcher
+* Fixed updater crashing when downloading
+* Added back kdrag0n's monet impl
+* Added back screen record customisations
+* Added back three finger screenshot gesture
+* Added support for per app volume
+* Fixed a rare bug with aod schedule
+* Added back brightness slider customisations
+* Fixed notification view not updating on dark / light theme switch
+* Switched to pixel battery graph style
+* Updated translations
+
+Device side changes
+* Sync with dora labs
+* fix typo in pop up camera dialog summary 
