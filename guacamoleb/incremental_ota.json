@@ -1,9 +1,9 @@
 {
-    "version": "2.5",
-    "date": "1648967943000",
-    "url": "https://kosp.e11z.net/d/A12/guacamoleb//KOSP-2.5-guacamoleb-user-OFFICIAL-GAPPS-incremental-20220403-1215.zip",
-    "file_name": "KOSP-2.5-guacamoleb-user-OFFICIAL-GAPPS-incremental-20220403-1215.zip",
-    "file_size": "14709671",
-    "sha_512": "1e5e90701708518ba0cd339c5706457a45e2ee3b529301bc38c685feb2fc853666dc99663b450b9dbc54a65e05b5071ad1b456c1581f3b546dc980d187948799",
-    "pre_build_incremental": "1648354600"
+    "version": "2.6",
+    "date": "1649839005000",
+    "url": "https://kosp.e11z.net/d/A12/guacamoleb//KOSP-2.6-guacamoleb-user-OFFICIAL-GAPPS-incremental-20220413-1446.zip",
+    "file_name": "KOSP-2.6-guacamoleb-user-OFFICIAL-GAPPS-incremental-20220413-1446.zip",
+    "file_size": "36345942",
+    "sha_512": "81241c707ce1b2dc6429ee7eb37632c3bfc3919c391e82670059bc526775c73387614f1c79114f7d4e9447356042a37e483c1d0d0a3e1c00d044ba5f82e9a43d",
+    "pre_build_incremental": "1648967986"
 }
