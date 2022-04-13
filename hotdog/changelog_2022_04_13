@@ -1,0 +1,17 @@
+Source side changes
+
+* Merge in April security patch and update props
+* Add ability to hide apps from launcher
+* Applock: Intercept activity better. Fixes bug where opening a locked app from recents would start showing ls on homescreen
+* Add a left volume toggle
+* Don't hide the default stream when adjusting the music stream
+* Respect multiple visible rows in landscape 
+* update lottie animation to avoid crash when using side fps
+* Update Translations
+* Fix a few crashes in system ui and launcher
+
+Device Side changes
+
+* Add support for hotdogg/guacamoles
+* Sync with latest dora
+
