@@ -1,0 +1,32 @@
+Source side changes
+
+* Merge in April security patch and update props
+* Add ability to hide apps from launcher
+* Applock: Intercept activity better. Fixes bug where opening a locked app from recents would start showing ls on homescreen
+* Add a left volume toggle
+* Don't hide the default stream when adjusting the music stream
+* Respect multiple visible rows in landscape 
+* update lottie animation to avoid crash when using side fps
+* Fix a few crashes in system ui and launcher
+* Fixed some log spam and a possible crash with split screen in launcher
+* Fixed updater crashing when downloading
+* Added back kdrag0n's monet impl
+* Added back screen record customisations
+* Added back three finger screenshot gesture
+* Added support for per app volume
+* Fixed a rare bug with aod schedule
+* Added back brightness slider customisations
+* Fixed notification view not updating on dark / light theme switch
+* Switched to pixel battery graph style
+* Updated translations
+
+Device Side changes
+
+* Drop clear speaker
+* Disable alpha compositing in WM
+* Optimize native executables for Cortex-A73 CPU
+* Remove RenderScript blobs (Depreciated in A12)
+* Update ims.apk and qti-telephony-common from LA.UM.9.6.2.r1-04100-89xx.0
+* Update DRM blobs from V12.5.3.0
+* Fix some IMS log spams 
+* PixelLauncher shipped by default
