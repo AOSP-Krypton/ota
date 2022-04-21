@@ -1,8 +1,11 @@
 {
     "version"    : "2.6",
-    "date"       : "2650180671000",
-    "url"        : "https://kosp.e11z.net/d/A12/guacamole/KOSP-2.6-guacamole-user-OFFICIAL-GAPPS-20220417-1322.zip",
-    "file_name"  : "KOSP-2.6-guacamole-user-OFFICIAL-GAPPS-20220417-1322.zip",
-    "file_size"  : "1259180760",
-    "sha_512"    : "90f165b05437a9e4afa45ba90f53f4c33fc011f31ea615e90ff21de32bcddb151cf7cb698bc8eecb4642f8fcba448a7d683cde4209af2ad82f29383f96b24471"
+    "date"       : "2650441477000",
+    "url"        : "https://kosp.e11z.net/d/A12/guacamole/KOSP-2.6-guacamole-user-OFFICIAL-GAPPS-20220420-1339.zip",
+    "filename"   : "KOSP-2.6-guacamole-user-OFFICIAL-GAPPS-20220420-1339.zip",
+    "file_name"  : "KOSP-2.6-guacamole-user-OFFICIAL-GAPPS-20220420-1339.zip",
+    "filesize"   : "1261452058",
+    "file_size"  : "1261452058",
+    "md5"        : "d903d4d85a9f53e9b6d15d13d6e91200",
+    "sha_512"    : "86b9a4e508851e5fa5928d389ffcd235f5914e5d815eb055356739baac6b6b9c34653824a373cf0a9fdc385d3437f3be1055769e4c47ea043e49813e0106df64"
 }
