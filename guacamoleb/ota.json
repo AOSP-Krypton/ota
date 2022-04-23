@@ -1,11 +1,15 @@
 {
     "version": "2.6",
-    "date": "1649839005000",
-    "url": "https://kosp.e11z.net/d/A12/guacamoleb//KOSP-2.6-guacamoleb-user-OFFICIAL-GAPPS-20220413-1441.zip",
-    "filename": "KOSP-2.6-guacamoleb-user-OFFICIAL-GAPPS-20220413-1441.zip",
-    "file_name": "KOSP-2.6-guacamoleb-user-OFFICIAL-GAPPS-20220413-1441.zip",
-    "filesize": "1271422196",
-    "file_size": "1271422196",
-    "md5": "ccc0068700a0dca65658b1e3d0054f96",
-    "sha_512": "33fb60c4b319e4ce14fb9f6d93c0b93da5866d7c37f1a3fd21853d5658697f4d9cfee86f2d5b30e258ca9856fbb531278b01db0d2c3567873a32a6f0f05a1dc7"
+    "date": "1650711726000",
+    "url": "https://kosp.e11z.net/d/A12/guacamoleb/KOSP-2.6-guacamoleb-user-OFFICIAL-GAPPS-20220423-1643.zip",
+    "download_sources": {
+        "OneDrive": "https://kosp.e11z.net/d/A12/guacamoleb/KOSP-2.6-guacamoleb-user-OFFICIAL-GAPPS-20220423-1643.zip",
+        "Sourceforge": "https://sourceforge.net/projects/kosp/files/A12/guacamoleb/KOSP-2.6-guacamoleb-user-OFFICIAL-GAPPS-20220423-1643.zip"
+    },
+    "filename": "KOSP-2.6-guacamoleb-user-OFFICIAL-GAPPS-20220423-1643.zip",
+    "file_name": "KOSP-2.6-guacamoleb-user-OFFICIAL-GAPPS-20220423-1643.zip",
+    "filesize": "1272346827",
+    "file_size": "1272346827",
+    "md5": "37e31367a2d9e607cbe43fc2e4755a30",
+    "sha_512": "b912cd8d9ad156a2d75fb2560f67c783d4ff082f48cbdf1af325f15376125c12505ac58a4e46e80b6036168dbb01c69d87dd9135db0df8efd1444666efda7c6c"
 }

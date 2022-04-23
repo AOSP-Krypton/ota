@@ -1,0 +1,26 @@
+Source side changes:
+
+* Updated safety net patches
+* Added ability to hide system apps in launcher
+* Hidden apps settings now asks user to require unlock before accessing
+* Added some missing lottie animations
+* Improved all app list fragment
+* Fixed crash with uninstall system shortcut in launcher
+* Updater:
+  * Possibly fixed all of the changelog not showing up in certain situations
+  * Properly handle payload info generation errors and allow error messages to be translated
+  * Formatted dates according to locale(will be translated if available)
+  * Added ability to copy changelog
+  * Rewrote entire ui with jetpack compose
+  * Enable code shrinking and obfuscation, reduced app size by 75%
+  * Better animations
+  * Ability to choose from more than one download mirror
+  * Fixed download not failing with malformed URLs
+  * Fixed download failing when it's retrying
+* Updated translations
+
+Device side changes:
+
+* Updated to Dora V3.1
+* Added support for f2fs compression
+    * Needs to format data to get effect (Optional)
