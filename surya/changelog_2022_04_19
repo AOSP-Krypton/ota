@@ -1,39 +1,33 @@
-Source side changes
+Source side changes:
 
-* Merge in April security patch and update props
-* Add ability to hide apps from launcher
-* Applock: Intercept activity better. Fixes bug where opening a locked app from recents would start showing ls on homescreen
-* Add a left volume toggle
-* Don't hide the default stream when adjusting the music stream
-* Respect multiple visible rows in landscape 
-* update lottie animation to avoid crash when using side fps
-* Fix a few crashes in system ui and launcher
-* Fixed some log spam and a possible crash with split screen in launcher
-* Fixed updater crashing when downloading
-* Added back kdrag0n's monet impl
-* Added back screen record customisations
-* Added back three finger screenshot gesture
-* Added support for per app volume
-* Fixed a rare bug with aod schedule
-* Added back brightness slider customisations
-* Fixed notification view not updating on dark / light theme switch
-* Switched to pixel battery graph style
+* Updated safety net patches
+* Added ability to hide system apps in launcher
+* Hidden apps settings now asks user to require unlock before accessing
+* Added some missing lottie animations
+* Improved all app list fragment
+* Fixed crash with uninstall system shortcut in launcher
+* Updater:
+  * Possibly fixed all of the changelog not showing up in certain situations
+  * Properly handle payload info generation errors and allow error messages to be translated
+  * Formatted dates according to locale(will be translated if available)
+  * Added ability to copy changelog
+  * Rewrote entire ui with jetpack compose
+  * Enable code shrinking and obfuscation, reduced app size by 75%
+  * Better animations
+  * Ability to choose from more than one download mirror
+  * Fixed download not failing with malformed URLs
+  * Fixed download failing when it's retrying
 * Updated translations
 
 Device Side changes
-* Disable animateScreenLight
-* Drop soundtrigger
-* Fixed missing camera audio
-* Drop 50Hz option in per-app maximum refresh rate
-* Add per app maximum refresh rate
-* Set fps location on x-axis
-* Configure side fingerprint sensor properties
-* Make all elf prebuilts packages 
-* Remove trust HAL from product packages
-* Remove obsolete debug.sf.disable_backpressure 
-* Fix status bar height for 12L
-* Add more wakeup nodes
-* Update blobs V12.5.5.0.RJGMIXM
+* Safetynet goes by default now
+* back soundtrigger
+* Fixes slow post biometric auth screen wakeup
+* Trb clang 15 for compile kernel
+* Upstreamed kernel to v4.14.276
+
+
+Notas
 * OSS Based ROM
 * Firmware Included V12.5.5.0.RJGMIXM
 * Build Gapps
