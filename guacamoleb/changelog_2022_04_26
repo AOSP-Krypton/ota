@@ -1,0 +1,8 @@
+HOTFIX
+
+Device side changes:
+
+* Fix device not booting after update
+* Fix random reboots
+* Switch to lz4 from zstd for compression algorithm
+* Update device side blobs from OOS 11.0.7.1
