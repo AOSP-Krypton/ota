@@ -1,13 +1,13 @@
 {
-    "version": "2.6",
-    "date": "1650685156000",
-    "url": "https://kosp.e11z.net/d/A12/hotdogb/KOSP-2.6-hotdogb-user-OFFICIAL-GAPPS-incremental-20220423-0920.zip",
+    "version": "2.7",
+    "date": "1651533337000",
+    "url": "https://kosp.e11z.net/d/A12/hotdogb/KOSP-2.7-hotdogb-user-OFFICIAL-GAPPS-incremental-20220503-0508.zip",
     "download_sources": {
-        "OneDrive": "https://kosp.e11z.net/d/A12/hotdogb/KOSP-2.6-hotdogb-user-OFFICIAL-GAPPS-incremental-20220423-0920.zip",
-        "Sourceforge": "https://sourceforge.net/projects/kosp/files/A12/hotdogb/KOSP-2.6-hotdogb-user-OFFICIAL-GAPPS-incremental-20220423-0920.zip"
+        "OneDrive": "https://kosp.e11z.net/d/A12/hotdogb/KOSP-2.7-hotdogb-user-OFFICIAL-GAPPS-incremental-20220503-0508.zip",
+        "Sourceforge": "https://sourceforge.net/projects/kosp/files/A12/hotdogb/KOSP-2.7-hotdogb-user-OFFICIAL-GAPPS-incremental-20220503-0508.zip"
     },
-    "file_name": "KOSP-2.6-hotdogb-user-OFFICIAL-GAPPS-incremental-20220423-0920.zip",
-    "file_size": "23938282",
-    "sha_512": "de3a67445c38e9d9118774706ad47cbd24c5a7a09568160c8e4e659391c537c251b3b13722d52cc9c340a2f843d458f33fc7b16e248aa3181120136faedd7aeb",
-    "pre_build_incremental": "518"
+    "file_name": "KOSP-2.7-hotdogb-user-OFFICIAL-GAPPS-incremental-20220503-0508.zip",
+    "file_size": "20348261",
+    "sha_512": "fcf339e924df2bd28402790bea8ce40c1de026057409c7823b6501ab7aa819380c5e59320b59c5f3d9a0a6f423891492c20c83878c26297a513c13fe7658f544",
+    "pre_build_incremental": "531"
 }
