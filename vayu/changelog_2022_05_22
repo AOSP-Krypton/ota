@@ -1,0 +1,10 @@
+Source side changes
+
+* Merged in may security patch (android-12.1.0_r5)
+* Fixed styles and wallpapers crashding with third party launchers
+* Rewrote MatlogX UI with jetpack compose, refactored and improved a lot.
+* Don't allow backup tool to run in non-debuggable builds
+
+Device side changes
+
+* Initial official build
