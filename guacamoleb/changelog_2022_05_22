@@ -1,0 +1,19 @@
+Source side changes
+* Switch to lawnchair
+* Dismiss existing screenshot window on taking new screenshot
+* Improve matlogX
+* add com.android.phone and com.android.bluetooth to indicator exemptions
+* Fix fastbootd not flashing any partitions
+* Fix version info in recovery
+* Add a do not validate option in wifi
+* Add hotspot client manager
+* Add option to select the number of devices that can connect to hotspot
+* Make hotspot timeout configurable
+* Add option to make hotspot SSID hidden
+* Allow long press of wifi password to copy
+
+Device side changes
+* Updated blobs from 11.0.7.1
+* Updated kernel to latest Dora
+* Fix an issue where dim layer would stay on even when fp failed
+[No Incremental build for this update]
