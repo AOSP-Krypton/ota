@@ -1,13 +1,13 @@
 {
     "version": "2.7",
-    "date": "1651532569000",
-    "url": "https://kosp.e11z.net/d/A12/guacamole/KOSP-2.7-guacamole-user-OFFICIAL-GAPPS-incremental-20220503-0443.zip",
+    "date": "1653218889000",
+    "url": "https://kosp.e11z.net/d/A12/guacamole/KOSP-2.7-guacamole-user-OFFICIAL-GAPPS-incremental-20220522-1710.zip",
     "download_sources": {
-        "OneDrive": "https://kosp.e11z.net/d/A12/guacamole/KOSP-2.7-guacamole-user-OFFICIAL-GAPPS-incremental-20220503-0443.zip",
-        "Sourceforge": "https://sourceforge.net/projects/kosp/files/A12/guacamole/KOSP-2.7-guacamole-user-OFFICIAL-GAPPS-incremental-20220503-0443.zip"
+        "OneDrive": "https://kosp.e11z.net/d/A12/guacamole/KOSP-2.7-guacamole-user-OFFICIAL-GAPPS-incremental-20220522-1710.zip",
+        "Sourceforge": "https://sourceforge.net/projects/kosp/files/A12/guacamole/KOSP-2.7-guacamole-user-OFFICIAL-GAPPS-incremental-20220522-1710.zip"
     },
-    "file_name": "KOSP-2.7-guacamole-user-OFFICIAL-GAPPS-incremental-20220503-0443.zip",
-    "file_size": "15499886",
-    "sha_512": "7fcbd338f4a911c4f2e0bfd0c40e7396febe111c695b2a62bba15b9d35f0230215ac3307de47ac5030762acb76d21fbf53a7e66b5eae4161177a39178cedafe1",
-    "pre_build_incremental": "536"
+    "file_name": "KOSP-2.7-guacamole-user-OFFICIAL-GAPPS-incremental-20220522-1710.zip",
+    "file_size": "25617254",
+    "sha_512": "980f4889265aef5dd9fb454078081e63e9188dbdeb5663d1469076d370bf328ccbb547ce62fa405da6f5e26d0b7a2ca72bddd5b39fb39874d8775ce86728aacc",
+    "pre_build_incremental": "604"
 }
