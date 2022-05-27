@@ -1,15 +1,15 @@
 {
     "version": "2.7",
-    "date": "1653243120000",
-    "url": "https://kosp.e11z.net/d/A12/guacamoleb/KOSP-2.7-guacamoleb-user-OFFICIAL-GAPPS-20220522-2349.zip",
+    "date": "1653662219000",
+    "url": "https://kosp.e11z.net/d/A12/guacamoleb/KOSP-2.7-guacamoleb-user-OFFICIAL-GAPPS-20220527-2031.zip",
     "download_sources": {
-        "OneDrive": "https://kosp.e11z.net/d/A12/guacamoleb/KOSP-2.7-guacamoleb-user-OFFICIAL-GAPPS-20220522-2349.zip",
-        "Sourceforge": "https://sourceforge.net/projects/kosp/files/A12/guacamoleb/KOSP-2.7-guacamoleb-user-OFFICIAL-GAPPS-20220522-2349.zip"
+        "OneDrive": "https://kosp.e11z.net/d/A12/guacamoleb/KOSP-2.7-guacamoleb-user-OFFICIAL-GAPPS-20220527-2031.zip",
+        "Sourceforge": "https://sourceforge.net/projects/kosp/files/A12/guacamoleb/KOSP-2.7-guacamoleb-user-OFFICIAL-GAPPS-20220527-2031.zip"
     },
-    "filename": "KOSP-2.7-guacamoleb-user-OFFICIAL-GAPPS-20220522-2349.zip",
-    "file_name": "KOSP-2.7-guacamoleb-user-OFFICIAL-GAPPS-20220522-2349.zip",
-    "filesize": "1270174320",
-    "file_size": "1270174320",
-    "md5": "3339a82b018d9b1804a5c26fc1bd84a2",
-    "sha_512": "57f2f66bf72cae54390888dc0d2458fea950f981c01cd7c9a3c34fa5de311a8b25810b28c099fde93ff9afdfaca5b010a41434eb46cb492bd98bebe9bcbee1e8"
+    "filename": "KOSP-2.7-guacamoleb-user-OFFICIAL-GAPPS-20220527-2031.zip",
+    "file_name": "KOSP-2.7-guacamoleb-user-OFFICIAL-GAPPS-20220527-2031.zip",
+    "filesize": "1270172241",
+    "file_size": "1270172241",
+    "md5": "3d2de2e8ba79e11afc77a89b77437b81",
+    "sha_512": "94b5ede102fc9ae9b98885b82847b2d2b33fe7bff7353a6ce8ef2141396e2f3bf8b15c9565518a0e861dab227cd1c9ebbc454e18e30ef974affe4f63839ba51a"
 }
