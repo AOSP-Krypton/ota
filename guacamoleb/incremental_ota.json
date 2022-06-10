@@ -1,0 +1,13 @@
+{
+    "version": "2.8",
+    "date": "1654858260000",
+    "url": "https://kosp.e11z.net/d/A12/guacamoleb/KOSP-2.8-guacamoleb-user-OFFICIAL-GAPPS-incremental-20220610-1720.zip",
+    "download_sources": {
+        "OneDrive": "https://kosp.e11z.net/d/A12/guacamoleb/KOSP-2.8-guacamoleb-user-OFFICIAL-GAPPS-incremental-20220610-1720.zip",
+        "Sourceforge": "https://sourceforge.net/projects/kosp/files/A12/guacamoleb/KOSP-2.8-guacamoleb-user-OFFICIAL-GAPPS-incremental-20220610-1720.zip"
+    },
+    "file_name": "KOSP-2.8-guacamoleb-user-OFFICIAL-GAPPS-incremental-20220610-1720.zip",
+    "file_size": "30773112",
+    "sha_512": "e0ed64033f03e5e4757f9178f74a07fd700706624e778447b16313a576b0fd0f450c2411b4609f4a10af985e7028e1ac12081d70fe74f1ba8199de5747d2b431",
+    "pre_build_incremental": "1653662268"
+}
